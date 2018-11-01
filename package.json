@@ -1,0 +1,22 @@
+{
+  "name": "CVLuisMorales",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Guillermo Morales Raya",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.17.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.2.0"
+  },
+  "dependencies": {
+    "npm": "^5.7.1"
+  },
+  "description": ""
+}
