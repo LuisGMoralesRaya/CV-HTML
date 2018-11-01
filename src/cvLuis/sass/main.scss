@@ -1,2 +1,20 @@
 @import "extras/reset";
 @import 'extras/font';
+
+body{
+	background-color: #f0f0f0;
+}
+
+.perfil{
+	width: 300px;
+	float: right;
+	height: 600px;
+	background-color: #fefefe;
+	display: inline-block;
+
+	&__titulo{
+		font-family: "TisaOT-Ita" sans-serif;
+		font-size: 18px;
+		text-align: left;
+	}
+}
